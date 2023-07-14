@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "basics/2. variables",
+        "basics/1. hello world",
+        "basics/3. booleans if-else switch",
+        "basics\\4. functions",
+        "basics\\5. loops",
+        "basics\\6. arrays",
+        "basics\\7. arrayList",
+        "basics\\8. world-of-object",
+        "basics\\9. exception-debugging",
+        "basics\\10. checked excpetion-reading file",
+        "basics\\11. unchecked exceptions"
+    ]
+}
