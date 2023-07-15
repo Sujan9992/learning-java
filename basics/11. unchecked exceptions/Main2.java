@@ -1,7 +1,7 @@
 import models.Employee;
 import models.Store;
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
         Employee stocker = new Employee("Ram", "Assistant");
         Employee assisManager = new Employee("Nicholas", "Sales Manager");
