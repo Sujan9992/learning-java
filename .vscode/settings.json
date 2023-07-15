@@ -10,6 +10,7 @@
         "basics\\8. world-of-object",
         "basics\\9. exception-debugging",
         "basics\\10. checked excpetion-reading file",
-        "basics\\11. unchecked exceptions"
+        "basics\\11. unchecked exceptions",
+        "basics\\12. inheritance"
     ]
 }
