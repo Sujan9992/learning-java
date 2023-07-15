@@ -11,6 +11,10 @@
         "basics\\9. exception-debugging",
         "basics\\10. checked excpetion-reading file",
         "basics\\11. unchecked exceptions",
-        "basics\\12. inheritance"
+        "basics\\12. inheritance",
+        "concurrency-multithreading\\1. concurrency",
+        "concurrency-multithreading\\2. joining-threads",
+        "concurrency-multithreading\\3. threadPool",
+        "concurrency-multithreading\\4. reentrant-lock"
     ]
 }
